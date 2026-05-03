@@ -7,9 +7,9 @@
 ---
 
 ## Project Overview
-- **Development Period**: 2026.02 - 2026.04
+- **Development Period**: 2026.04.08 - 2026.04.26
 - **Environment**: Unity 2022.3.x, C#
-- **Platform**: PC (Steam Target)
+- **Platform**: PC
 - **Role**: Solo Developer (Game Design, Logic Architecture, UI/UX, Sound Direction)
 
 ---
